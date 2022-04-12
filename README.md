@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niko Seino
 - 👀 I’m interested in: data science, language development and disorders, technology
-- 🌱 I’m currently learning more about: Python, machine learning
+- 🌱 I’m currently learning more about: Python, Power BI
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/nijiko-s-7024b690/) 
 
 <!---
