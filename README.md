@@ -17,8 +17,8 @@
 
 
 
-[![Linkedin: NikoSeino](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoseino/)](https://www.linkedin.com/in/nikoseino/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: NikoSeino](https://img.shields.io/badge/-NikoSeino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoseino/)](https://www.linkedin.com/in/nikoseino/)
+[![GitHub NikoSeino](https://img.shields.io/github/followers/NikoSeino?label=follow&style=social)](https://github.com/NikoSeino)
 
 <!---
 NikoSeino/NikoSeino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
