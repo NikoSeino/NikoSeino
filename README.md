@@ -12,8 +12,6 @@
 
 #### 🌱 Things I am learning more about
 - How to code in Python
-- How to get a job as a data analyst
-- How to get a full night's sleep with four cats
 
 
 
