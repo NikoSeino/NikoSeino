@@ -10,8 +10,9 @@
 - How to make the best pad thai
 
 
-#### 🌱 Things I am learning more about
-- How to code in Python
+#### 🌱 Things I am interested in learning more about
+- Coding in Python
+- AI and Natural Language Processing
 
 
 
