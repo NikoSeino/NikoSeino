@@ -3,14 +3,14 @@
 <p><em>Future Data Analyst
 </br>Current Speech Language Pathologist</p>
 
-#### 👀 Things I know: 
-- How to analyze data using SQL
-- How to manage spreadsheets in Excel/Google Sheets
-- How to create Visualizations in Tableau
-- How to make the best pad thai
+#### About me:
+- Master's in Communication Disorders, SLP for 7+ years
+- Interested in something new. Always learning
+- Self taught user of SQL, Excel, R, and Tableau for data analysis
+- Hobbies include: gardening, cooking, word games, having cats
 
 
-#### 🌱 Things I am interested in learning more about
+#### Things I am learning more about
 - Coding in Python
 - AI and Natural Language Processing
 
