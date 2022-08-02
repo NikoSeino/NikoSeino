@@ -5,8 +5,8 @@
 
 #### About me:
 - Master's in Communication Disorders, SLP for 7+ years
-- Interested in something new. Always learning
 - Self taught user of SQL, Excel, R, and Tableau for data analysis
+- Interested in something new. Always learning
 - Hobbies include: gardening, cooking, word games, having cats
 
 
