@@ -1,4 +1,4 @@
-<h2> Hi, I'm Niko <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Niko <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.ibb.co/MPLjDZZ/kenj.png" width="230">
 <p><em>Future Data Scientist
 </br>Current Speech Language Pathologist</p>
