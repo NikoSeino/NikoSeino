@@ -1,10 +1,10 @@
-<h2> Niko <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Niko 
 <img align='right' src="https://i.ibb.co/MPLjDZZ/kenj.png" width="230">
 <p><em>Future Data Scientist
 </br>Current Speech Language Pathologist</p>
 
 #### About me:
-- Master's in Communication Disorders, SLP for 8 years
+- I was a speech-language pathologist for 8 years
 - 2nd Master's in Data Science in progress
 - Self taught user of SQL, Excel, R, and Python for data analysis
 - Interested in something new. Always learning
