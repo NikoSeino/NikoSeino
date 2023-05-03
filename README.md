@@ -1,4 +1,4 @@
-<h2> Niko 
+## Niko
 <img align='right' src="https://i.ibb.co/MPLjDZZ/kenj.png" width="230">
 <p><em>Future Data Scientist
 </br>Current Speech Language Pathologist</p>
