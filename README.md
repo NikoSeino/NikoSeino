@@ -17,6 +17,7 @@
 - <a href="https://github.com/NikoSeino/Data-Analysis-in-R">R Projects </a>
 - <a href="https://github.com/NikoSeino/Python-mini-projects">Python Projects </a>
 - <a href="https://github.com/NikoSeino/Business-Analytics">Business Analysis Projects </a>
+- <a href="https://nikoseino.github.io/">Personal Website</a>
 
 [![Linkedin: NikoSeino](https://img.shields.io/badge/-NikoSeino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoseino/)](https://www.linkedin.com/in/nikoseino/)
 [![GitHub NikoSeino](https://img.shields.io/github/followers/NikoSeino?label=follow&style=social)](https://github.com/NikoSeino)
