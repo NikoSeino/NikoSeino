@@ -10,7 +10,13 @@
 - Always learning
 - Hobbies include: gardening, word games, having cats
 
+#### Links:
 
+- Capstone project for the Google Data Analytics Certification: 
+   <a href="https://github.com/NikoSeino/Bellabeat-case-study">Identifying Consumer Trends in Fitbit Data </a>
+- <a href="https://github.com/NikoSeino/Data-Analysis-in-R">R Projects </a>
+- <a href="https://github.com/NikoSeino/Python-mini-projects">Python Projects </a>
+- <a href="https://github.com/NikoSeino/Business-Analytics">Business Analysis Projects </a>
 
 [![Linkedin: NikoSeino](https://img.shields.io/badge/-NikoSeino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoseino/)](https://www.linkedin.com/in/nikoseino/)
 [![GitHub NikoSeino](https://img.shields.io/github/followers/NikoSeino?label=follow&style=social)](https://github.com/NikoSeino)
