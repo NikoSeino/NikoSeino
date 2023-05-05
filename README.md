@@ -12,8 +12,8 @@
 
 #### Links:
 
-- Capstone project for the Google Data Analytics Certification: 
-   <a href="https://github.com/NikoSeino/Bellabeat-case-study">Identifying Consumer Trends in Fitbit Data </a>
+
+- <a href="https://github.com/NikoSeino/Bellabeat-case-study">Google Data Analytics Certification Project </a>
 - <a href="https://github.com/NikoSeino/Data-Analysis-in-R">R Projects </a>
 - <a href="https://github.com/NikoSeino/Python-mini-projects">Python Projects </a>
 - <a href="https://github.com/NikoSeino/Business-Analytics">Business Analysis Projects </a>
