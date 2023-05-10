@@ -7,7 +7,7 @@
 - Speech-language pathologist for 8 years
 - 2nd Master's in Data Science in progress
 - Self taught user of SQL, Excel, R, and Python for data analysis
-- Always learning
+- Currently learning: machine learning w/ Scikit-Learn, Natural Language Processing
 - Hobbies include: gardening, word games, having cats
 
 #### Links:
