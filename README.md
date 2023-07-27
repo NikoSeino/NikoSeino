@@ -1,5 +1,5 @@
 ## Niko
-<img align='right' src="https://i.ibb.co/MPLjDZZ/kenj.png" width="220" height = "200">
+<img align='right' src="https://i.ibb.co/dKjvDsV/Kenj.png" alt="Kenj" border="0" width = "350">
 <p><em>Future Data Scientist
 </br>Current Speech Language Pathologist</p>
 
