@@ -1,7 +1,7 @@
 ## Niko
 <img align='right' src="https://i.ibb.co/dKjvDsV/Kenj.png" alt="Kenj" border="0" width = "350">
 <p><em>Future Data Scientist
-</br>Current Speech Language Pathologist</p>
+</br>Former Speech Language Pathologist</p>
 
 #### About me:
 - Speech-language pathologist for 8 years
