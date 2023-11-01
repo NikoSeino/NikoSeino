@@ -6,8 +6,8 @@
 #### About me:
 - Speech-language pathologist for 8 years
 - 2nd Master's in Data Science in progress (exp. Dec 2023)
-- Self taught user of SQL, Excel, R, and Python for data analysis
-- Currently learning: machine learning w/ Scikit-Learn and TensorFlow, Natural Language Processing
+- Tools: PostgreSQL, R, and Python for data analysis; Tableau, ggplot, matplotlib for visualizations
+- Currently learning: machine learning w/ Scikit-Learn and TensorFlow; ETL and data pipelines with Apache Airflow and Kafka
 - Hobbies include: gardening, word games, fostering kittens
 
 #### Links:
