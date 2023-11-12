@@ -16,6 +16,7 @@
 - <a href="https://github.com/NikoSeino/Bellabeat-case-study">Google Data Analytics Certification Project </a>
 - <a href="https://github.com/NikoSeino/Data-Analysis-in-R">R Projects </a>
 - <a href="https://github.com/NikoSeino/Python-mini-projects">Python Projects </a>
+- <a href="https://github.com/NikoSeino/machine-learning">Machine Learning Projects </a>
 - <a href="https://github.com/NikoSeino/Business-Analytics">Business Analysis Projects </a>
 - <a href="https://nikoseino.github.io/">Personal Website</a>
 - <a href="https://public.tableau.com/app/profile/niko.seino/vizzes#!/">Data Visualizations</a>
