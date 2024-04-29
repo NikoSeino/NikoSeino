@@ -1,11 +1,11 @@
 ## Niko
 <img align='right' src="https://i.ibb.co/dKjvDsV/Kenj.png" alt="Kenj" border="0" width = "350">
-<p><em>Future Data Scientist
+<p><em>Data Scientist
 </br>Former Speech Language Pathologist</p>
 
 #### About me:
 - Recent Data Science graduate / teaching assistant for Eastern University's MSDS program
-- Tools: PostgreSQL, R, and Python for data analysis; Tableau, Power BI, ggplot, matplotlib for visualizations
+- Languages/Tools: SQL, R, Python, DAX, Tableau, Power BI
 - Currently learning: machine learning w/ Scikit-Learn and TensorFlow; ETL and data pipelines with Apache Airflow and Kafka
 - Hobbies include: gardening, baking, fostering kittens
 
